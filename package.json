@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "antd": "^5.24.2",
+    "axios": "^1.8.1",
+    "crypto-random-string": "^5.0.0",
     "jotai": "^2.12.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
